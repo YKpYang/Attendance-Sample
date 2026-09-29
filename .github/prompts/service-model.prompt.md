@@ -1,5 +1,5 @@
 ---
-name: "service-mode"
+name: "service-model"
 description: "Attendance-Sample の Services 層を具体的に生成・修正する"
 agent: "attendance-expert"
 model: "gpt-4o"
